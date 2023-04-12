@@ -68,7 +68,7 @@
             }
 
             .buttons button:nth-child(4){
-                background-color: rgb(201, 89, 69);
+                background-color: #c5b1a4;
             }
 
   </style>
